@@ -23,4 +23,5 @@
 | Day | 주제 | 날짜 |
 |---|---|---|
 | 001 | [인공지능이란? AI·머신러닝·딥러닝의 관계와 역사](days/day001-what-is-ai.md) | 2026-11-08 |
+| 002 | [데이터의 종류와 전처리](days/day002-data-and-preprocessing.md) | 2026-11-09 |
 <!-- PROGRESS:END -->
