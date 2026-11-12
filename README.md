@@ -26,4 +26,5 @@
 | 002 | [데이터의 종류와 전처리](days/day002-data-and-preprocessing.md) | 2026-11-09 |
 | 003 | [지도학습·비지도학습·강화학습](days/day003-learning-paradigms.md) | 2026-11-10 |
 | 004 | [학습의 기본 흐름: 모델, 손실 함수, 최적화, 데이터 분할](days/day004-training-loop.md) | 2026-11-11 |
+| 005 | [과적합과 과소적합, 편향-분산 트레이드오프, 정규화](days/day005-overfitting-regularization.md) | 2026-11-12 |
 <!-- PROGRESS:END -->
