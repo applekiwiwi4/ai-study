@@ -28,4 +28,5 @@
 | 004 | [학습의 기본 흐름: 모델, 손실 함수, 최적화, 데이터 분할](days/day004-training-loop.md) | 2026-11-11 |
 | 005 | [과적합과 과소적합, 편향-분산 트레이드오프, 정규화](days/day005-overfitting-regularization.md) | 2026-11-12 |
 | 006 | [평가 지표: 정확도, 정밀도, 재현율, F1, 혼동행렬, ROC-AUC, MSE](days/day006-evaluation-metrics.md) | 2026-11-16 |
+| 007 | [AI를 위한 수학 1: 벡터·행렬·텐서](days/day007-vectors-matrices-tensors.md) | 2026-11-16 |
 <!-- PROGRESS:END -->
