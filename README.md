@@ -29,4 +29,5 @@
 | 005 | [과적합과 과소적합, 편향-분산 트레이드오프, 정규화](days/day005-overfitting-regularization.md) | 2026-11-12 |
 | 006 | [평가 지표: 정확도, 정밀도, 재현율, F1, 혼동행렬, ROC-AUC, MSE](days/day006-evaluation-metrics.md) | 2026-11-16 |
 | 007 | [AI를 위한 수학 1: 벡터·행렬·텐서](days/day007-vectors-matrices-tensors.md) | 2026-11-16 |
+| 008 | [AI를 위한 수학 2: 미분·그래디언트·확률 기초](days/day008-derivatives-gradients-probability.md) | 2026-11-17 |
 <!-- PROGRESS:END -->
