@@ -31,4 +31,5 @@
 | 007 | [AI를 위한 수학 1: 벡터·행렬·텐서](days/day007-vectors-matrices-tensors.md) | 2026-11-16 |
 | 008 | [AI를 위한 수학 2: 미분·그래디언트·확률 기초](days/day008-derivatives-gradients-probability.md) | 2026-11-17 |
 | 009 | [선형 회귀와 경사하강법](days/day009-linear-regression.md) | 2026-11-18 |
+| 010 | [로지스틱 회귀와 분류](days/day010-logistic-regression.md) | 2026-11-19 |
 <!-- PROGRESS:END -->
