@@ -18,7 +18,7 @@
 - [x] Day 009 — 선형 회귀와 경사하강법
 - [x] Day 010 — 로지스틱 회귀와 분류
 - [x] Day 011 — 결정 트리
-- [ ] Day 012 — 앙상블: 랜덤 포레스트, 부스팅(XGBoost, LightGBM)
+- [x] Day 012 — 앙상블: 랜덤 포레스트, 부스팅(XGBoost, LightGBM)
 - [ ] Day 013 — SVM (서포트 벡터 머신)과 커널
 - [ ] Day 014 — k-NN과 거리 기반 학습
 - [ ] Day 015 — 군집화: k-means, DBSCAN
