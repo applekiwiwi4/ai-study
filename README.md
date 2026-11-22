@@ -33,4 +33,5 @@
 | 009 | [선형 회귀와 경사하강법](days/day009-linear-regression.md) | 2026-11-18 |
 | 010 | [로지스틱 회귀와 분류](days/day010-logistic-regression.md) | 2026-11-19 |
 | 011 | [결정 트리](days/day011-decision-tree.md) | 2026-11-20 |
+| 012 | [앙상블: 랜덤 포레스트, 부스팅(XGBoost, LightGBM)](days/day012-ensemble.md) | 2026-11-22 |
 <!-- PROGRESS:END -->
