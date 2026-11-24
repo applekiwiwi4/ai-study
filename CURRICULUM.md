@@ -20,7 +20,7 @@
 - [x] Day 011 — 결정 트리
 - [x] Day 012 — 앙상블: 랜덤 포레스트, 부스팅(XGBoost, LightGBM)
 - [x] Day 013 — SVM (서포트 벡터 머신)과 커널
-- [ ] Day 014 — k-NN과 거리 기반 학습
+- [x] Day 014 — k-NN과 거리 기반 학습
 - [ ] Day 015 — 군집화: k-means, DBSCAN
 - [ ] Day 016 — 차원 축소: PCA, t-SNE, UMAP
 
