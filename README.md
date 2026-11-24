@@ -35,4 +35,5 @@
 | 011 | [결정 트리](days/day011-decision-tree.md) | 2026-11-20 |
 | 012 | [앙상블: 랜덤 포레스트, 부스팅(XGBoost, LightGBM)](days/day012-ensemble.md) | 2026-11-22 |
 | 013 | [SVM (서포트 벡터 머신)과 커널](days/day013-svm-kernel.md) | 2026-11-23 |
+| 014 | [k-NN과 거리 기반 학습](days/day014-knn.md) | 2026-11-24 |
 <!-- PROGRESS:END -->
