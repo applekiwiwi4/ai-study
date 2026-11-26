@@ -22,7 +22,7 @@
 - [x] Day 013 — SVM (서포트 벡터 머신)과 커널
 - [x] Day 014 — k-NN과 거리 기반 학습
 - [x] Day 015 — 군집화: k-means, DBSCAN
-- [ ] Day 016 — 차원 축소: PCA, t-SNE, UMAP
+- [x] Day 016 — 차원 축소: PCA, t-SNE, UMAP
 
 ## 3부. 딥러닝 기초 (17~24일)
 - [ ] Day 017 — 퍼셉트론과 다층 퍼셉트론(MLP)
