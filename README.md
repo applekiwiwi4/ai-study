@@ -37,4 +37,5 @@
 | 013 | [SVM (서포트 벡터 머신)과 커널](days/day013-svm-kernel.md) | 2026-11-23 |
 | 014 | [k-NN과 거리 기반 학습](days/day014-knn.md) | 2026-11-24 |
 | 015 | [군집화: k-means, DBSCAN](days/day015-clustering.md) | 2026-11-25 |
+| 016 | [차원 축소: PCA, t-SNE, UMAP](days/day016-dimensionality-reduction.md) | 2026-11-26 |
 <!-- PROGRESS:END -->
