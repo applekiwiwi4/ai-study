@@ -38,4 +38,5 @@
 | 014 | [k-NN과 거리 기반 학습](days/day014-knn.md) | 2026-11-24 |
 | 015 | [군집화: k-means, DBSCAN](days/day015-clustering.md) | 2026-11-25 |
 | 016 | [차원 축소: PCA, t-SNE, UMAP](days/day016-dimensionality-reduction.md) | 2026-11-26 |
+| 017 | [퍼셉트론과 다층 퍼셉트론(MLP)](days/day017-perceptron-mlp.md) | 2026-11-27 |
 <!-- PROGRESS:END -->
